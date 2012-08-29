@@ -1,3 +1,4 @@
+// This is Hello world
 class HelloWorld {
 	
 	public static final int MAX_HELLO = 20;
