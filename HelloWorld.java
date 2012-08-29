@@ -1,4 +1,5 @@
 // This is Hello world
+// This is sample
 class HelloWorld {
 	
 	public static final int MAX_HELLO = 20;
